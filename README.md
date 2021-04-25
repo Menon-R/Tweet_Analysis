@@ -12,9 +12,9 @@ Python installed on your machine (or) use Google Colab.
 A list of libraries to install for this project.
 
 ```
-**Twint** - An advanced twitter scraping package
-**nest_asyncio** - Module to patch asyncio to allow nested use of asyncio.run
-**pyLDAvis** -  To extract info. from a fitted LDA topic model to generate an interactive web-based visualization
+Twint - An advanced twitter scraping package
+nest_asyncio - Module to patch asyncio to allow nested use of asyncio.run
+pyLDAvis -  To extract info. from a fitted LDA topic model to generate an interactive web-based visualization
 Pandas - For data analysis and manipulation
 Numpy - Array processing package in python
 Seaborn - data visualization library based on matplotlib
